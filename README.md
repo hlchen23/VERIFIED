@@ -1,10 +1,11 @@
 # VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding
-Official repository of NeurIPS D&amp;B Track paper "VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding"
+Official repository of NeurIPS D&amp;B Track 2024 paper "VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding"
 
 http://arxiv.org/abs/2410.08593
 
 The datasets and codes are coming soon.
 
+[2024.10.22] 🚀 We update our webpage for our work VERIFIED! See https://verified-neurips.github.io
 
 ## Citation
 If you are interested in this work, cite
