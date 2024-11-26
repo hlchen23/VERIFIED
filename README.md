@@ -7,6 +7,8 @@ The datasets and codes are coming soon.
 
 [2024.10.22] 🚀 We update our webpage for our work VERIFIED! See https://verified-neurips.github.io
 
+[2024.11.26] 🚀 We release our fine-grained dataset.
+
 ## Citation
 If you are interested in this work, cite
 ~~~
