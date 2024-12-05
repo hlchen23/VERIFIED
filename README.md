@@ -7,7 +7,15 @@ The datasets and codes are coming soon.
 
 [2024.10.22] 🚀 We update our webpage for our work VERIFIED! See https://verified-neurips.github.io
 
-[2024.11.26] 🚀 We release our fine-grained dataset.
+[2024.11.26] 🚀 We release our fine-grained dataset with its document.
+
+Thanks to the previous works. The videos are from:
+
+Charades: https://prior.allenai.org/projects/charades
+
+DiDeMo: https://github.com/LisaAnne/LocalizingMoments
+
+ActivityNet: http://activity-net.org/
 
 ## Citation
 If you are interested in this work, cite
