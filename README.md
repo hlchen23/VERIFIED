@@ -9,6 +9,13 @@ The datasets and codes are coming soon.
 
 [2024.11.26] 🚀 We release our fine-grained dataset with its document.
 
+[2024.12.22] 🚀 We release our features of our *-FIG datasets.
+
+Link: https://pan.baidu.com/s/1gww8nzbYAIONrMfS7GG1HA?pwd=nz7w
+
+Code: nz7w
+
+
 Thanks to the previous works. The videos are from:
 
 Charades: https://prior.allenai.org/projects/charades
