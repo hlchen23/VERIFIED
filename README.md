@@ -11,9 +11,14 @@ The datasets and codes are coming soon.
 
 [2024.12.22] 🚀 We release our features of our *-FIG datasets.
 
+[2025.1.11]  🚀 Since some users outside of China can not visit Baidu cloud, we release the features in Tsinghua Cloud.
+
 Link: https://pan.baidu.com/s/1gww8nzbYAIONrMfS7GG1HA?pwd=nz7w
 
 Code: nz7w
+
+
+Tsinghua Cloud Link: https://cloud.tsinghua.edu.cn/d/e87d339b5b094905b615/
 
 
 Thanks to the previous works. The videos are from:
