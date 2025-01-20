@@ -11,7 +11,7 @@ The datasets and codes are coming soon.
 
 [2024.12.22] 🚀 We release our features of our *-FIG datasets.
 
-[2025.1.11]  🚀 Since some users outside of China can not visit Baidu cloud, we release the features in Tsinghua Cloud.
+[2025.1.20]  🚀 Since some users outside of China can not visit Baidu cloud, we release the features in Tsinghua Cloud.
 
 Link: https://pan.baidu.com/s/1gww8nzbYAIONrMfS7GG1HA?pwd=nz7w
 
